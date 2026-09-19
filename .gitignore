@@ -1,0 +1,15 @@
+# Backend
+backend/.venv/
+backend/.env
+backend/__pycache__/
+backend/data/
+backend/*.pdf
+
+# Frontend
+Frontend/.env
+Frontend/node_modules/
+Frontend/dist/
+
+# Python
+__pycache__/
+*.pyc
